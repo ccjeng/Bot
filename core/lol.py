@@ -6,13 +6,14 @@ import requests
 from bs4 import BeautifulSoup
 import time
 count=1200
-os.system("apt install toilet")
+
+## os.system("apt install toilet")
 color1=["\033[1;31;40m","\033[1;32;40m","\033[1;33;40m","\033[1;34;40m","\033[1;35;40m","\033[1;36;40m"]
 def color():
  return str(random.choice(color1))
 def banner():
  os.system("clear")
- os.system("toilet -fmono12 -F gay Bot")
+## os.system("toilet -fmono12 -F gay Bot")
  print("    \033[1;36;40m Code made by: \033[1;32;40m tuhin1729")
  print("    \033[1;36;40m Instagram id: \033[1;32;40m www.instagram.com/tuhin1729")
  print("    \033[1;36;40m Github      : \033[1;32;40m www.github.com/tuhin1729")
@@ -21,6 +22,7 @@ def banner():
  print("        \033[1;31;40mSome Proxies May Be Dead. :(")
  print("        \033[1;31;40mRemember:The Website In Which You Are Testing May Identify This Bot.")
  print("\n\n") 
+
 def req(proxy_url,target_url,timeo,stay_time):
  r=requests.get(proxy_url)
  soup=BeautifulSoup(r.content,'html.parser')
@@ -57,13 +59,14 @@ def req(proxy_url,target_url,timeo,stay_time):
   except Exception as e: 
    driver.close()
 banner()
-target=raw_input("\033[1;33;40mEnter The Target URL(Ex: https://www.google.com) :")
+target=input("\033[1;33;40mEnter The Target URL(Ex: https://www.google.com) :")
 if("tuhin1729" in target):
  print("You can't perform it in my Website")
  sys.exit()
-timeout=int(raw_input("\033[1;33;40mEnter The Time Out(In Seconds)(Recommended 100) :"))
-stay=int(raw_input("\033[1;33;40mEnter The Stay Time(In Seconds) :"))
+timeout=int(input("\033[1;33;40mEnter The Time Out(In Seconds)(Recommended 100) :"))
+stay=int(input("\033[1;33;40mEnter The Stay Time(In Seconds) :"))
 urllist=["https://www.sslproxies.org","https://us-proxy.org","https://free-proxy-list.net/uk-proxy.html","https://free-proxy-list.net/anonymous-proxy.html","https://free-proxy-list.net","https://www.socks-proxy.net"]
+
 for purl in urllist:
  banner()
  req(purl,target,timeout,stay)

@@ -1,0 +1,726 @@
+1648557130506	geckodriver	INFO	Listening on 127.0.0.1:56835
+1648557131499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez97VuM"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648557138657	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez97VuM/search.json.mozlz4", (void 0)))
+1648557150271	Marionette	INFO	Listening on port 42539
+1648557150450	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648557150457	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"65.21.185.170:443","httpProxy":"65.21.185.170:443","sslProxy":"65.21.185.170:443"}
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1648557644811	geckodriver	INFO	Listening on 127.0.0.1:52185
+1648557645821	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXSxXUr"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648557647979	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXSxXUr/search.json.mozlz4", (void 0)))
+1648557660844	Marionette	INFO	Listening on port 37097
+1648557661100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648557661159	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"65.21.185.170:443","httpProxy":"65.21.185.170:443","sslProxy":"65.21.185.170:443"}
+1648557661498	Marionette	INFO	Stopped listening on port 37097
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648557665477	geckodriver	INFO	Listening on 127.0.0.1:60079
+1648557665515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilea2KAf5"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648557669273	Marionette	INFO	Marionette enabled
+1648557795962	geckodriver	INFO	Listening on 127.0.0.1:45757
+1648557796975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaEtEcT"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648557800245	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaEtEcT/search.json.mozlz4", (void 0)))
+1648557813077	Marionette	INFO	Listening on port 35447
+1648557813418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648557813451	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"65.21.185.170:443","httpProxy":"65.21.185.170:443","sslProxy":"65.21.185.170:443"}
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1648561105621	geckodriver	INFO	Listening on 127.0.0.1:40379
+1648561106633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0VrFx3"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561108869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0VrFx3/search.json.mozlz4", (void 0)))
+1648561125265	Marionette	INFO	Listening on port 36361
+1648561126018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561126121	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"146.59.157.200:3129","httpProxy":"146.59.157.200:3129","sslProxy":"146.59.157.200:3129"}
+1648561159083	Marionette	INFO	Stopped listening on port 36361
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648561162278	geckodriver	INFO	Listening on 127.0.0.1:38413
+1648561163290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCpmf6b"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561165264	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCpmf6b/search.json.mozlz4", (void 0)))
+1648561175667	Marionette	INFO	Listening on port 38057
+1648561176018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561176033	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"217.30.171.161:80","httpProxy":"217.30.171.161:80","sslProxy":"217.30.171.161:80"}
+1648561276409	Marionette	INFO	Stopped listening on port 38057
+1648561281471	geckodriver	INFO	Listening on 127.0.0.1:39633
+1648561282476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekVjcqO"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561285146	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekVjcqO/search.json.mozlz4", (void 0)))
+1648561304452	Marionette	INFO	Listening on port 40897
+1648561304683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561304699	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"177.71.164.145:80","httpProxy":"177.71.164.145:80","sslProxy":"177.71.164.145:80"}
+1648561405023	Marionette	INFO	Stopped listening on port 40897
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648561409788	geckodriver	INFO	Listening on 127.0.0.1:60615
+1648561410907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUyrqpy"
+1648561447225	geckodriver	INFO	Listening on 127.0.0.1:36903
+1648561447285	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZYHqEG"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561450485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZYHqEG/search.json.mozlz4", (void 0)))
+1648561468458	Marionette	INFO	Listening on port 42493
+1648561468670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561468687	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"170.155.5.235:8080","httpProxy":"170.155.5.235:8080","sslProxy":"170.155.5.235:8080"}
+1648561569235	Marionette	INFO	Stopped listening on port 42493
+1648561585221	geckodriver	INFO	Listening on 127.0.0.1:37243
+1648561586233	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ1xayB"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561591964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ1xayB/search.json.mozlz4", (void 0)))
+1648561614277	Marionette	INFO	Listening on port 43027
+1648561614786	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561614813	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"146.59.157.200:3129","httpProxy":"146.59.157.200:3129","sslProxy":"146.59.157.200:3129"}
+1648561648610	Marionette	INFO	Stopped listening on port 43027
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648561651786	geckodriver	INFO	Listening on 127.0.0.1:46373
+1648561652784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8UYoyf"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561654884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8UYoyf/search.json.mozlz4", (void 0)))
+1648561665285	Marionette	INFO	Listening on port 38225
+1648561665514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648561665535	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"217.30.171.161:80","httpProxy":"217.30.171.161:80","sslProxy":"217.30.171.161:80"}
+1648561678437	Marionette	INFO	Stopped listening on port 38225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648561681290	geckodriver	INFO	Listening on 127.0.0.1:35257
+1648561682329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIm8YF2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648561684318	Marionette	INFO	Marionette enabled
+1648562724364	geckodriver	INFO	Listening on 127.0.0.1:39489
+1648562725381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLWKd90"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562727888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLWKd90/search.json.mozlz4", (void 0)))
+1648562739559	Marionette	INFO	Listening on port 44391
+1648562739868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562739883	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"169.57.1.85:8123","httpProxy":"169.57.1.85:8123","sslProxy":"169.57.1.85:8123"}
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648562746977	Marionette	INFO	Stopped listening on port 44391
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648562750319	geckodriver	INFO	Listening on 127.0.0.1:51981
+1648562751469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2h6Llv"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562754178	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2h6Llv/search.json.mozlz4", (void 0)))
+1648562766773	Marionette	INFO	Listening on port 37019
+1648562767196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562767231	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"170.155.5.235:8080","httpProxy":"170.155.5.235:8080","sslProxy":"170.155.5.235:8080"}
+1648562772171	Marionette	INFO	Stopped listening on port 37019
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648562777972	geckodriver	INFO	Listening on 127.0.0.1:60585
+1648562778298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFBo1v2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562782468	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFBo1v2/search.json.mozlz4", (void 0)))
+1648562794398	Marionette	INFO	Listening on port 40763
+1648562794693	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562794749	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"146.59.157.200:3129","httpProxy":"146.59.157.200:3129","sslProxy":"146.59.157.200:3129"}
+1648562804886	Marionette	INFO	Stopped listening on port 40763
+1648562808786	geckodriver	INFO	Listening on 127.0.0.1:46309
+1648562809814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekK584X"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562812053	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekK584X/search.json.mozlz4", (void 0)))
+1648562823064	Marionette	INFO	Listening on port 35951
+1648562823447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562823453	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"217.30.171.161:80","httpProxy":"217.30.171.161:80","sslProxy":"217.30.171.161:80"}
+1648562833790	Marionette	INFO	Stopped listening on port 35951
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648562837763	geckodriver	INFO	Listening on 127.0.0.1:33923
+1648562838769	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenyUjvj"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562841181	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenyUjvj/search.json.mozlz4", (void 0)))
+1648562852448	Marionette	INFO	Listening on port 41815
+1648562852745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562852751	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"177.71.164.145:80","httpProxy":"177.71.164.145:80","sslProxy":"177.71.164.145:80"}
+1648562862890	Marionette	INFO	Stopped listening on port 41815
+1648562866389	geckodriver	INFO	Listening on 127.0.0.1:35755
+1648562866431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ8gE4z"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562868986	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ8gE4z/search.json.mozlz4", (void 0)))
+1648562879576	Marionette	INFO	Listening on port 40329
+1648562879865	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562879946	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"45.81.131.173:3128","httpProxy":"45.81.131.173:3128","sslProxy":"45.81.131.173:3128"}
+1648562890183	Marionette	INFO	Stopped listening on port 40329
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648562893703	geckodriver	INFO	Listening on 127.0.0.1:36411
+1648562894709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecnSQIa"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562896796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecnSQIa/search.json.mozlz4", (void 0)))
+1648562908348	Marionette	INFO	Listening on port 38449
+1648562908563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562908599	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"141.95.1.198:3129","httpProxy":"141.95.1.198:3129","sslProxy":"141.95.1.198:3129"}
+1648562918800	Marionette	INFO	Stopped listening on port 38449
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648562921915	geckodriver	INFO	Listening on 127.0.0.1:34973
+1648562922933	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev9pWGX"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562925449	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev9pWGX/search.json.mozlz4", (void 0)))
+1648562935148	Marionette	INFO	Listening on port 36685
+1648562935362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562935371	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"65.21.185.170:443","httpProxy":"65.21.185.170:443","sslProxy":"65.21.185.170:443"}
+1648562945702	Marionette	INFO	Stopped listening on port 36685
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648562948877	geckodriver	INFO	Listening on 127.0.0.1:38035
+1648562949880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehLAmyq"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562952089	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehLAmyq/search.json.mozlz4", (void 0)))
+1648562962168	Marionette	INFO	Listening on port 35797
+1648562962349	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562962354	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"176.119.134.192:23500","httpProxy":"176.119.134.192:23500","sslProxy":"176.119.134.192:23500"}
+1648562972511	Marionette	INFO	Stopped listening on port 35797
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648562975896	geckodriver	INFO	Listening on 127.0.0.1:50535
+1648562976890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMfW08z"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648562979251	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMfW08z/search.json.mozlz4", (void 0)))
+1648562989170	Marionette	INFO	Listening on port 38889
+1648562989440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648562989449	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"85.25.119.113:5566","httpProxy":"85.25.119.113:5566","sslProxy":"85.25.119.113:5566"}
+1648562999712	Marionette	INFO	Stopped listening on port 38889
+1648563002890	geckodriver	INFO	Listening on 127.0.0.1:53037
+1648563003912	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez26Ddm"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648563006128	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez26Ddm/search.json.mozlz4", (void 0)))
+1648563018194	Marionette	INFO	Listening on port 40015
+1648563018605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648563018688	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"185.255.47.59:8080","httpProxy":"185.255.47.59:8080","sslProxy":"185.255.47.59:8080"}
+1648563029091	Marionette	INFO	Stopped listening on port 40015
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648563032573	geckodriver	INFO	Listening on 127.0.0.1:42811
+1648563033582	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemL3kPk"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648563036016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemL3kPk/search.json.mozlz4", (void 0)))
+1648563052147	Marionette	INFO	Listening on port 35271
+1648563052365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648563052400	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"20.47.108.204:8888","httpProxy":"20.47.108.204:8888","sslProxy":"20.47.108.204:8888"}
+1648563054657	Marionette	INFO	Stopped listening on port 35271
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+1648563058396	geckodriver	INFO	Listening on 127.0.0.1:52327
+1648563059404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOwqqr2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648563062025	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOwqqr2/search.json.mozlz4", (void 0)))
+1648563075384	Marionette	INFO	Listening on port 41401
+1648563075829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648563075870	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"151.106.18.122:1080","httpProxy":"151.106.18.122:1080","sslProxy":"151.106.18.122:1080"}
+1648563086188	Marionette	INFO	Stopped listening on port 41401
+1648563090897	geckodriver	INFO	Listening on 127.0.0.1:51115
+1648563091515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileytfGfN"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648563094506	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileytfGfN/search.json.mozlz4", (void 0)))
+1648563106870	Marionette	INFO	Listening on port 36315
+1648563107208	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648563107265	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"85.133.232.42:8080","httpProxy":"85.133.232.42:8080","sslProxy":"85.133.232.42:8080"}
+1648563117609	Marionette	INFO	Stopped listening on port 36315
+1648563121133	geckodriver	INFO	Listening on 127.0.0.1:40935
+1648563122141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegt1Hpi"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648563124454	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegt1Hpi/search.json.mozlz4", (void 0)))
+1648563134257	Marionette	INFO	Listening on port 43265
+1648563134570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648563134591	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"143.110.146.53:3128","httpProxy":"143.110.146.53:3128","sslProxy":"143.110.146.53:3128"}
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://marionette/content/driver.js:947:3
+
+1648610496860	geckodriver	INFO	Listening on 127.0.0.1:53043
+1648610497858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW2sav3"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648610503562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2sav3/search.json.mozlz4", (void 0)))
+1648610511152	Marionette	INFO	Listening on port 34841
+1648610511332	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648610511337	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"222.254.34.117:8888","httpProxy":"222.254.34.117:8888","sslProxy":"222.254.34.117:8888"}
+1648610611455	Marionette	INFO	Stopped listening on port 34841
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1648610613676	geckodriver	INFO	Listening on 127.0.0.1:38879
+1648610614679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevo5mm1"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648610616291	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevo5mm1/search.json.mozlz4", (void 0)))
+1648610623881	Marionette	INFO	Listening on port 43209
+1648610624078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648610624084	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"41.65.174.120:1981","httpProxy":"41.65.174.120:1981","sslProxy":"41.65.174.120:1981"}
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648610724160	Marionette	INFO	Stopped listening on port 43209
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648610726400	geckodriver	INFO	Listening on 127.0.0.1:39037
+1648610727405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezOWCwO"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648610729145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezOWCwO/search.json.mozlz4", (void 0)))
+1648610736732	Marionette	INFO	Listening on port 38305
+1648610736845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648610736856	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"85.25.117.171:5566","httpProxy":"85.25.117.171:5566","sslProxy":"85.25.117.171:5566"}
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648610836972	Marionette	INFO	Stopped listening on port 38305
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648610839469	geckodriver	INFO	Listening on 127.0.0.1:36121
+1648610839476	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileS3MVr1"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648610841138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS3MVr1/search.json.mozlz4", (void 0)))
+1648610848632	Marionette	INFO	Listening on port 35129
+1648610848734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648610848739	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"102.68.128.218:8080","httpProxy":"102.68.128.218:8080","sslProxy":"102.68.128.218:8080"}
+1648610935664	geckodriver	INFO	Listening on 127.0.0.1:49361
+1648610936669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled2RWbV"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648610938052	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled2RWbV/search.json.mozlz4", (void 0)))
+1648610945647	Marionette	INFO	Listening on port 33863
+1648610945862	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648610945867	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"222.254.34.117:8888","httpProxy":"222.254.34.117:8888","sslProxy":"222.254.34.117:8888"}
+1648611046047	Marionette	INFO	Stopped listening on port 33863
+1648611048260	geckodriver	INFO	Listening on 127.0.0.1:48887
+1648611049266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecQvzH8"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611050872	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecQvzH8/search.json.mozlz4", (void 0)))
+1648611058353	Marionette	INFO	Listening on port 41611
+1648611058540	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611058546	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"41.65.174.120:1981","httpProxy":"41.65.174.120:1981","sslProxy":"41.65.174.120:1981"}
+1648611158659	Marionette	INFO	Stopped listening on port 41611
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648611160757	geckodriver	INFO	Listening on 127.0.0.1:39787
+1648611161762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLtYDPu"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611163148	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLtYDPu/search.json.mozlz4", (void 0)))
+1648611170749	Marionette	INFO	Listening on port 35031
+1648611171138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611171143	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"85.25.117.171:5566","httpProxy":"85.25.117.171:5566","sslProxy":"85.25.117.171:5566"}
+1648611203040	Marionette	INFO	Stopped listening on port 35031
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648611205449	geckodriver	INFO	Listening on 127.0.0.1:47235
+1648611206439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexA0JHS"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611207879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexA0JHS/search.json.mozlz4", (void 0)))
+1648611215836	Marionette	INFO	Listening on port 37771
+1648611215955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611215970	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"102.68.128.218:8080","httpProxy":"102.68.128.218:8080","sslProxy":"102.68.128.218:8080"}
+1648611316183	Marionette	INFO	Stopped listening on port 37771
+1648611318471	geckodriver	INFO	Listening on 127.0.0.1:43721
+1648611318479	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4ddu0Y"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611320260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4ddu0Y/search.json.mozlz4", (void 0)))
+1648611328445	Marionette	INFO	Listening on port 35167
+1648611328573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611328596	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"154.236.177.100:1981","httpProxy":"154.236.177.100:1981","sslProxy":"154.236.177.100:1981"}
+1648611428764	Marionette	INFO	Stopped listening on port 35167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648611431172	geckodriver	INFO	Listening on 127.0.0.1:40469
+1648611432187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiD7f55"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611433869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiD7f55/search.json.mozlz4", (void 0)))
+1648611441954	Marionette	INFO	Listening on port 33773
+1648611442278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611442290	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"151.106.18.125:1080","httpProxy":"151.106.18.125:1080","sslProxy":"151.106.18.125:1080"}
+1648611542450	Marionette	INFO	Stopped listening on port 33773
+1648611544989	geckodriver	INFO	Listening on 127.0.0.1:54275
+1648611545995	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCvxii2"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611547746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCvxii2/search.json.mozlz4", (void 0)))
+1648611555589	Marionette	INFO	Listening on port 35351
+1648611555775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611555814	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"8.214.41.50:80","httpProxy":"8.214.41.50:80","sslProxy":"8.214.41.50:80"}
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 110: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix-addon.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/all.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/search_selection.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pixlogger.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/mib_falcon--bundle.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 629: ReferenceError: Criteo is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 713: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 880: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 982: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1008: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1037: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1068: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1090: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1100: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1131: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1158: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1172: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1229: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1342: TypeError: pix.MIB.build is undefined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1382: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1403: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog-mixpanel.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://libs.pixfs.net/angular-spinner/angular-spinner.min.js, line 1: ReferenceError: angular is not defined
+JavaScript error: https://front.pixfs.net/js/guestbook-comment.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: angular is not defined
+JavaScript error: https://front.pixfs.net/js/styleme.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/hide-ad-checker.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/member-subscribe.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/pixinsight.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: TypeError: $ is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1598: TypeError: jQuery is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1706: TypeError: jQuery is undefined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402 line 326 > injectedScript, line 1: TypeError: jQuery is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402 line 326 > injectedScript, line 1: TypeError: a is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402 line 326 > injectedScript, line 1: TypeError: jQuery is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 156: TypeError: jQuery is undefined
+1648611593351	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: chrome://browser/content/certerror/aboutNetError.js, line 368: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402 line 1 > injectedScript, line 13: TypeError: jQuery is undefined
+1648611655989	Marionette	INFO	Stopped listening on port 35351
+1648611658293	geckodriver	INFO	Listening on 127.0.0.1:49569
+1648611659298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileexaDF7"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611660948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileexaDF7/search.json.mozlz4", (void 0)))
+1648611669247	Marionette	INFO	Listening on port 45245
+1648611669378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611669398	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"138.186.178.98:999","httpProxy":"138.186.178.98:999","sslProxy":"138.186.178.98:999"}
+1648611769511	Marionette	INFO	Stopped listening on port 45245
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1648611771562	geckodriver	INFO	Listening on 127.0.0.1:39669
+1648611772565	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebKwjwm"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611774192	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebKwjwm/search.json.mozlz4", (void 0)))
+1648611781655	Marionette	INFO	Listening on port 40937
+1648611781796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611781838	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"181.129.52.155:42648","httpProxy":"181.129.52.155:42648","sslProxy":"181.129.52.155:42648"}
+1648611881971	Marionette	INFO	Stopped listening on port 40937
+1648611884078	geckodriver	INFO	Listening on 127.0.0.1:60665
+1648611885083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee8ndYM"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611886645	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee8ndYM/search.json.mozlz4", (void 0)))
+1648611894348	Marionette	INFO	Listening on port 37081
+1648611894534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611894544	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"189.129.104.214:999","httpProxy":"189.129.104.214:999","sslProxy":"189.129.104.214:999"}
+1648611941745	geckodriver	INFO	Listening on 127.0.0.1:52783
+1648611942752	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUaW7Vu"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648611944334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUaW7Vu/search.json.mozlz4", (void 0)))
+1648611952741	Marionette	INFO	Listening on port 45125
+1648611952859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648611952869	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"20.47.108.204:8888","httpProxy":"20.47.108.204:8888","sslProxy":"20.47.108.204:8888"}
+JavaScript error: https://libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 110: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix-addon.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/all.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/search_selection.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pixlogger.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/mib_falcon--bundle.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 2: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 629: ReferenceError: Criteo is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 713: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 880: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 982: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1008: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1037: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1068: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1090: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1100: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1131: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1158: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1172: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1229: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1342: TypeError: pix.MIB.build is undefined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1382: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1403: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog-mixpanel.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://libs.pixfs.net/angular-spinner/angular-spinner.min.js, line 1: ReferenceError: angular is not defined
+JavaScript error: https://front.pixfs.net/js/guestbook-comment.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: angular is not defined
+JavaScript error: https://front.pixfs.net/js/styleme.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/hide-ad-checker.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/member-subscribe.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/pixinsight.min.js?v=45abac5d8f56a48c9ba3be1beb806854, line 1: TypeError: $ is not a function
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1598: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 1706: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 156: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402 line 1 > injectedScript, line 13: ReferenceError: jQuery is not defined
+1648611972436	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: uncaught exception: undefined
+1648612005123	Marionette	INFO	Stopped listening on port 45125
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648612007679	geckodriver	INFO	Listening on 127.0.0.1:34515
+1648612008683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev9GVAd"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612010437	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilev9GVAd/search.json.mozlz4", (void 0)))
+1648612019635	Marionette	INFO	Listening on port 35259
+1648612019923	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612019941	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"222.254.34.117:8888","httpProxy":"222.254.34.117:8888","sslProxy":"222.254.34.117:8888"}
+1648612120056	Marionette	INFO	Stopped listening on port 35259
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648612122500	geckodriver	INFO	Listening on 127.0.0.1:56407
+1648612123527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXDjtYd"
+1648612181861	geckodriver	INFO	Listening on 127.0.0.1:41665
+1648612182858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileR6eqSL"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612184349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR6eqSL/search.json.mozlz4", (void 0)))
+1648612192330	Marionette	INFO	Listening on port 38387
+1648612192441	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612192449	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"20.47.108.204:8888","httpProxy":"20.47.108.204:8888","sslProxy":"20.47.108.204:8888"}
+1648612254480	Marionette	INFO	Stopped listening on port 38387
+1648612256900	geckodriver	INFO	Listening on 127.0.0.1:56479
+1648612257910	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileckcJVg"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612259576	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileckcJVg/search.json.mozlz4", (void 0)))
+1648612266949	Marionette	INFO	Listening on port 36949
+1648612267096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612267103	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"222.254.34.117:8888","httpProxy":"222.254.34.117:8888","sslProxy":"222.254.34.117:8888"}
+1648612367284	Marionette	INFO	Stopped listening on port 36949
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1648612369497	geckodriver	INFO	Listening on 127.0.0.1:53157
+1648612370499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIOpiIF"
+1648612521709	geckodriver	INFO	Listening on 127.0.0.1:37751
+1648612522719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh4ON5i"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612524281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh4ON5i/search.json.mozlz4", (void 0)))
+1648612532134	Marionette	INFO	Listening on port 42317
+1648612532246	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612532256	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"20.47.108.204:8888","httpProxy":"20.47.108.204:8888","sslProxy":"20.47.108.204:8888"}
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ibackup1230.pixnet.net/blog/post/55732402, line 629: ReferenceError: Criteo is not defined
+JavaScript error: , line 0: uncaught exception: Object
+1648612582408	Marionette	INFO	Stopped listening on port 42317
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648612585177	geckodriver	INFO	Listening on 127.0.0.1:47311
+1648612586183	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilextv9Ym"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612587910	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilextv9Ym/search.json.mozlz4", (void 0)))
+1648612596174	Marionette	INFO	Listening on port 33307
+1648612596368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612596379	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"222.254.34.117:8888","httpProxy":"222.254.34.117:8888","sslProxy":"222.254.34.117:8888"}
+1648612696481	Marionette	INFO	Stopped listening on port 33307
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+1648612698966	geckodriver	INFO	Listening on 127.0.0.1:37051
+1648612699963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQVOTsd"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612701569	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQVOTsd/search.json.mozlz4", (void 0)))
+1648612709253	Marionette	INFO	Listening on port 35235
+1648612709431	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612709437	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"41.65.174.120:1981","httpProxy":"41.65.174.120:1981","sslProxy":"41.65.174.120:1981"}
+1648612809561	Marionette	INFO	Stopped listening on port 35235
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648612811975	geckodriver	INFO	Listening on 127.0.0.1:37215
+1648612812979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyiCd2G"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612814602	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyiCd2G/search.json.mozlz4", (void 0)))
+1648612823051	Marionette	INFO	Listening on port 46871
+1648612823312	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612823348	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"85.25.117.171:5566","httpProxy":"85.25.117.171:5566","sslProxy":"85.25.117.171:5566"}
+1648612862443	Marionette	INFO	Stopped listening on port 46871
+1648612865405	geckodriver	INFO	Listening on 127.0.0.1:35837
+1648612866410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePSQ2SV"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612868041	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePSQ2SV/search.json.mozlz4", (void 0)))
+1648612876954	Marionette	INFO	Listening on port 43271
+1648612877161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612877189	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"154.236.177.100:1981","httpProxy":"154.236.177.100:1981","sslProxy":"154.236.177.100:1981"}
+1648612977358	Marionette	INFO	Stopped listening on port 43271
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1648612979660	geckodriver	INFO	Listening on 127.0.0.1:51131
+1648612980667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefDTzd6"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648612982336	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefDTzd6/search.json.mozlz4", (void 0)))
+1648612990745	Marionette	INFO	Listening on port 37393
+1648612990873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648612990885	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"102.68.128.218:8080","httpProxy":"102.68.128.218:8080","sslProxy":"102.68.128.218:8080"}
+1648613091072	Marionette	INFO	Stopped listening on port 37393
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1648613093574	geckodriver	INFO	Listening on 127.0.0.1:54525
+1648613094578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyfHFtJ"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648613096130	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyfHFtJ/search.json.mozlz4", (void 0)))
+1648613104056	Marionette	INFO	Listening on port 34637
+1648613104250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648613104254	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"151.106.18.125:1080","httpProxy":"151.106.18.125:1080","sslProxy":"151.106.18.125:1080"}
+1648613150737	Marionette	INFO	Stopped listening on port 34637
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 829: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1648613153462	geckodriver	INFO	Listening on 127.0.0.1:42105
+1648613154469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileen2v6J"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648613156263	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileen2v6J/search.json.mozlz4", (void 0)))
+1648613165259	Marionette	INFO	Listening on port 40683
+1648613165382	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648613165432	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"8.214.41.50:80","httpProxy":"8.214.41.50:80","sslProxy":"8.214.41.50:80"}
+1648613169571	Marionette	INFO	Stopped listening on port 40683
+1648613172375	geckodriver	INFO	Listening on 127.0.0.1:58387
+1648613173381	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNlqReA"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648613175160	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNlqReA/search.json.mozlz4", (void 0)))
+1648613183846	Marionette	INFO	Listening on port 46691
+1648613184036	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648613184042	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"138.186.178.98:999","httpProxy":"138.186.178.98:999","sslProxy":"138.186.178.98:999"}
+1648613284184	Marionette	INFO	Stopped listening on port 46691
+1648613286559	geckodriver	INFO	Listening on 127.0.0.1:45197
+1648613286572	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqQZ77W"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1648613288184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqQZ77W/search.json.mozlz4", (void 0)))
+1648613296837	Marionette	INFO	Listening on port 36257
+1648613296950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1648613296957	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"181.129.52.155:42648","httpProxy":"181.129.52.155:42648","sslProxy":"181.129.52.155:42648"}
+1648613397159	Marionette	INFO	Stopped listening on port 36257
+1648613399582	geckodriver	INFO	Listening on 127.0.0.1:41153
+1648613400683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZHRmh6"
