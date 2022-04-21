@@ -50,7 +50,7 @@ def req(proxy_url,target_url,timeo,stay_time):
   try:   
    PROXY=iplist[index]+":"+portlist[index]
    print("\033[1;32;40mTrying From "+color()+str(PROXY))
-   webdriver.DesiredCapabilities.FIREFOX['proxy']={"httpProxy":PROXY,"ftpProxy":PROXY,"sslProxy":PROXY,"proxyType":"MANUAL"}
+   webdriver.DesiredCapabilities.FIREFOX['proxy']={"httpProxy":PROXY,"sslProxy":PROXY,"proxyType":"MANUAL"}
    driver=webdriver.Firefox()
    driver.set_page_load_timeout(timeo)
    driver.get(target_url)
