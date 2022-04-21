@@ -6,4 +6,4 @@ os.system("clear")
 #print("\033[1;32;40mWait Untill The Entire Program Get Finished.\033[1;31;40mOtherwise...")
 #time.sleep(5)
 
-os.system("cd core && python lol.py")
+os.system("cd core && python3 lol.py")
