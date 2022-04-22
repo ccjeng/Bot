@@ -5,6 +5,8 @@ from selenium import webdriver
 import requests
 from bs4 import BeautifulSoup
 import time
+import datetime
+
 count=1200
 
 ## os.system("apt install toilet")
@@ -49,7 +51,7 @@ def req(proxy_url,target_url,timeo,stay_time):
  for index in range (0,(len(iplist)-1)): 
   try:   
    PROXY=iplist[index]+":"+portlist[index]
-   print("\033[1;32;40mTrying From "+str(PROXY))
+   print("\033[1;32;40m"+str(datetime.datetime.now())+" Trying From "+str(PROXY))
    webdriver.DesiredCapabilities.FIREFOX['proxy']={"httpProxy":PROXY,"sslProxy":PROXY,"proxyType":"MANUAL"}
    driver=webdriver.Firefox()
    driver.set_page_load_timeout(timeo)
