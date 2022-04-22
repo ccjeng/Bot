@@ -49,7 +49,7 @@ def req(proxy_url,target_url,timeo,stay_time):
  for index in range (0,(len(iplist)-1)): 
   try:   
    PROXY=iplist[index]+":"+portlist[index]
-   print("\033[1;32;40mTrying From "+color()+str(PROXY))
+   print("\033[1;32;40mTrying From "+str(PROXY))
    webdriver.DesiredCapabilities.FIREFOX['proxy']={"httpProxy":PROXY,"sslProxy":PROXY,"proxyType":"MANUAL"}
    driver=webdriver.Firefox()
    driver.set_page_load_timeout(timeo)
@@ -59,12 +59,12 @@ def req(proxy_url,target_url,timeo,stay_time):
   except Exception as e: 
    driver.close()
 banner()
-target=input("\033[1;33;40mEnter The Target URL(Ex: https://www.google.com) :")
+target="https://ibackup1230.pixnet.net/blog" # input("\033[1;33;40mEnter The Target URL(Ex: https://www.google.com) :")
 if("tuhin1729" in target):
  print("You can't perform it in my Website")
  sys.exit()
-timeout=int(input("\033[1;33;40mEnter The Time Out(In Seconds)(Recommended 100) :"))
-stay=int(input("\033[1;33;40mEnter The Stay Time(In Seconds) :"))
+timeout=100 #int(input("\033[1;33;40mEnter The Time Out(In Seconds)(Recommended 100) :"))
+stay=10 #int(input("\033[1;33;40mEnter The Stay Time(In Seconds) :"))
 urllist=["https://www.sslproxies.org","https://us-proxy.org","https://free-proxy-list.net/uk-proxy.html","https://free-proxy-list.net/anonymous-proxy.html","https://free-proxy-list.net","https://www.socks-proxy.net"]
 
 for purl in urllist:

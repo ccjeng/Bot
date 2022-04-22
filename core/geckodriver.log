@@ -791,3 +791,117 @@ Read port: 59989
 Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
 GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
 
+1650546993992	Marionette	INFO	Stopped listening on port 59989
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:154:26
+
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650547178024	geckodriver	INFO	Listening on 127.0.0.1:62807
+1650547178541	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62808" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofile8g8nNc"
+1650547178842	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofile8g8nNc/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:62808/devtools/browser/60bce70f-e8e1-4539-b11a-4ea002d45bbd
+1650547179548	Marionette	INFO	Listening on port 62826
+Read port: 62826
+1650547179611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650547179612	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"63.161.104.189:3128","sslProxy":"63.161.104.189:3128"}
+JavaScript error: https://www.google.com/sorry/index?continue=https://www.google.com/&q=EgQ_oWi9GO2zhZMGIhAJGlYtO3dVP0-Ke021zUv9MgFy, line 1: SyntaxError: expected expression, got ','
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
+
+1650547285054	Marionette	INFO	Stopped listening on port 62826
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650593985588	geckodriver	INFO	Listening on 127.0.0.1:56058
+1650593986104	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56059" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofilelx8Amn"
+1650593986682	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofilelx8Amn/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56059/devtools/browser/4123636b-ecc2-4ab1-90b7-db0704881e82
+1650593987432	Marionette	INFO	Listening on port 56072
+Read port: 56072
+1650593987477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650593987478	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"8.213.128.253:80","sslProxy":"8.213.128.253:80"}
+JavaScript error: https://libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 96: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix-addon.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/all.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/search_selection.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pixlogger.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+1650594087496	Marionette	INFO	Stopped listening on port 56072
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650594087873	geckodriver	INFO	Listening on 127.0.0.1:56209
+1650594088454	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56210" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofileQL6tro"
+1650594088703	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofileQL6tro/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56210/devtools/browser/c5080bcd-05df-40f5-940d-196dd4e71782
+1650594089332	Marionette	INFO	Listening on port 56224
+Read port: 56224
+1650594089403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650594089404	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"8.213.128.131:80","sslProxy":"8.213.128.131:80"}
+JavaScript error: https://libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 96: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix-addon.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/all.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/search_selection.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pixlogger.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 1758: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 1784: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 1813: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/member-subscribe.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 143: ReferenceError: jQuery is not defined
+1650594189428	Marionette	INFO	Stopped listening on port 56224
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
+1650594189807	geckodriver	INFO	Listening on 127.0.0.1:56382
+1650594190327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "56383" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofileXxOu2c"
+1650594190602	Marionette	INFO	Marionette enabled
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/cj/rpz9krrd3md80pvnvp2ddy8h0000gn/T/rust_mozprofileXxOu2c/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 241"  data: no]
+DevTools listening on ws://localhost:56383/devtools/browser/86b66660-4b6f-4785-92b2-0538f197d7a7
+1650594191204	Marionette	INFO	Listening on port 56396
+Read port: 56396
+1650594191276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650594191277	RemoteAgent	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"8.213.128.123:80","sslProxy":"8.213.128.123:80"}
+JavaScript error: https://libs.pixfs.net/jquery.onappear/jquery.onAppear.min.js, line 8: ReferenceError: jQuery is not defined
+JavaScript error: https://ibackup1230.pixnet.net/blog, line 96: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pix-addon.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/all.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/blog.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://front.pixfs.net/js/search_selection.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://s.pixfs.net/js/pixlogger.min.js?v=eb4ac00a7b111ff9600e7897652e8c11, line 1: ReferenceError: jQuery is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:812:3
+
+1650594280298	Marionette	INFO	Stopped listening on port 56396
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PImageBridgeParent] Error: RunMessage(msgname=PImageBridge::Msg_WillClose) Channel closing: too late to send/recv, messages will be lost
+
